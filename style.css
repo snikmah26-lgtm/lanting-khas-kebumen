@@ -59,6 +59,17 @@ body {
     color: var(--putih);
 }
 
+.hero {
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+    /* Gunakan format ini untuk memastikan gambar muncul di tengah */
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('lanting.jpg') no-repeat center center;
+    background-size: cover;
+    color: var(--putih);
+}
+
 .hero h1 {
     font-family: 'Poppins', sans-serif;
     font-size: 4rem;

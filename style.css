@@ -54,7 +54,7 @@ body {
     display: flex;
     align-items: center;
     padding: 0 10%;
-    background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('https://mijil.id/t/lanting-kebumen-camilan-nikmat-yang-memiliki-peluang-usaha-dalam-ekonomi/9447');
+    background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('lanting.jpg');
     background-size: cover;
     color: var(--putih);
 }
